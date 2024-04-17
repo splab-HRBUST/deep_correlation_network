@@ -1,0 +1,7 @@
+开始处理数据!
+开始执行!
+device: cuda:3
+self.protocols_fname =  /mnt/g813_u6/2019/LA/ASVspoof2019_LA_cm_protocols/ASVspoof2019.LA.cm.dev.trl.txt
+self.cache_fname =  cache_dev_LA_spect.npy
+self.cache_matlab_fname =  cache_dev_LA_spect.mat
+进入else

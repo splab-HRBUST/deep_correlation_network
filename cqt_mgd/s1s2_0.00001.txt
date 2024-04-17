@@ -1,0 +1,9 @@
+开始处理数据!
+开始处理数据!
+load finish
+load finish
+开始执行!
+self. =  /g813_u1/mnt/2019/LA/ASVspoof_LA_cm_protocols/ASVspoof2019.LA.cm.dev.trl.txt
+self.cache_fname =  cache2_dev_LA_spect.npy
+self.cache_matlab_fname =  cache2_dev_LA_spect.mat
+else

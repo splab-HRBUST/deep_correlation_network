@@ -1,0 +1,14 @@
+开始处理数据!
+开始执行!
+device: cuda:3
+self.protocols_fname =  /mnt/g813_u6/2019/LA/ASVspoof2019_LA_cm_protocols/ASVspoof2019.LA.cm.eval.trl.txt
+self.cache_fname =  cache_eval_LA_spect.npy
+self.cache_matlab_fname =  cache_eval_LA_spect.mat
+Dataset loaded from cache  cache_eval_LA_spect.npy
+处理数据完成!
+Model loaded : models/model_logical_spect_200_32_5e-05/epoch_199.pth
+eer =  0.05193848549493584
+threshold =  13.02910327911377
+target_scores = (7355,)
+nontarget_scores =  (63882,)
+Result saved to scores.txt
